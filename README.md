@@ -184,6 +184,7 @@ VITE_ADMIN_SECRET_PATH=admin-7f9k2p8x3q1w5e6r
 5. Start development server:
 ```bash
 npm run dev
+
 ```
 
 The app will be available at `http://localhost:5173`
